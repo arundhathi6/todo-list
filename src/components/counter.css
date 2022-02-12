@@ -1,0 +1,23 @@
+body{
+
+  height: 100vh;
+  background-image: url(https://s1.1zoom.me/big0/175/Winter_Berry_SorbusSnow_459505.jpg) ;
+}
+
+.padding{
+  padding-top: 13%;
+}
+
+h1{
+  text-align: center;
+  font-weight: 1000;
+}
+
+button{
+  background-color:crimson;
+  width:100px;
+  height:30px;
+  border-radius: 20px;
+  border:none;
+  color:white;
+}
