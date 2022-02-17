@@ -1,15 +1,15 @@
-# Zoom_Car_Clone_ejs
-A web application that provides car rental services &amp; allows users to rent cars by the hour, day, week, or month.
-<img src="https://www.zoomcar.com/build/2bd9b312f575510da149ed2a8b862852.jpeg" style="width: 100%;height:390px;">
-<h3>About this project: 🙌</h3>
-Hi reader, you might have visited, read, or heard about the Zoom car website, Zoomcar, is an Indian self-drive car rental company, headquartered in Bangalore, India.This is a team project, built by us in the Construct Week - Unit 4 at Masai School.
+# ToDo-List-App
+
+<h3>About this app: 🙌</h3>
+Hi reader, you might have used or heard about the ToDo List App, It's an app that generally used to maintain day-to-day task or everything that we have to do.
 <h3>It's a solo project❤️</h3>
    <a href="https://github.com/arundhathi6">Arundhathi R Menon</a><br>
    <h3>Features:</h3>
       <ul>
             <li> Users can add the todo task.</li>
             <li> Users can toggle between completed and incompleted task.</li>
-            <li>Users can delete the todo task.</li></ul>
+           <li>Users can see all the tasks that were added to the app.</li></ul>
+            <li>Users can delete any todo from the list.</li></ul>
  <h3>Tool kits I've used to build this project: 🛠</h3>
   <ul>
             <li>React</li>
