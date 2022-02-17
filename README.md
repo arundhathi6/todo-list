@@ -15,7 +15,7 @@ Hi reader, you might have used or heard about the ToDo List App, It's an app tha
             <li>React</li>
            <li>JavaScript</li>
             <li>HTML</li>
-            <li>CSS</li>
+            <li>CSS</li></ul>
             
            
 
