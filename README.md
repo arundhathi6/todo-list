@@ -8,7 +8,7 @@ Hi reader, you might have used or heard about the ToDo List App, It's an app tha
       <ul>
             <li> Users can add the todo task.</li>
             <li> Users can toggle between completed and incompleted task.</li>
-           <li>Users can see all the tasks that were added to the app.</li></ul>
+            <li>Users can see all the tasks that were added to the app.</li>
             <li>Users can delete any todo from the list.</li></ul>
  <h3>Tool kits I've used to build this project: 🛠</h3>
   <ul>
